@@ -1,0 +1,13 @@
+Top List Chart : 
+
+num		Song				Artist				View
+1. 		Bache Gherti		Mohsen Lorestani	808.2 k
+2.		Ganj-e-Gharoon		Abbas Ghaderi		672.6 k
+3.		Gavazn				Ali Sorena			645.9 k
+4.		Goriz				Ebi					600.8 k
+5.		They-Not-Like-Us	Kendrik Lamar		550.3 k
+6.		Azizam				Ed Sheeran			454.7 k
+7.		Shabe Eshgh			Hayedeh				403.3 k
+8.		Soltan Ghalbha		Aref				386.6 k
+9.		Je Veux				ZAZ					360.7 k
+10.		On The Floor		Jenifer Lopez		332.0 k
